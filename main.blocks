@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Q;nm![F8_Zb#a9U_)K/R">sprite</variable></variables><block type="pxt-on-start" id="#!H92Mp,Z/|/%(=*{LGK" x="0" y="0"/><block type="device_forever" id="nY~9L)V{{A8EfV(Z;p~G" x="205" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="S9rl0N?h.YAmg7yI9UbM"><value name="TIMES"><shadow type="math_whole_number" id="le+tB/$GC6nTUr)fv4!f"><field name="NUM">1.1111111111111112e+56</field></shadow></value><statement name="DO"><block type="device_show_number" id="Zu+@|)F`#Iej+W%o2-y|"><value name="number"><shadow type="math_number" id="};KvZ0s#n|/~D*|3VcKq"><field name="NUM">9</field></shadow></value><next><block type="device_show_leds" id="1wGQluafrmOCkBhcvY(["><field name="LEDS">`
+        # . # # # 
+        # . # . . 
+        # # # # # 
+        . . # . # 
+        # # # . #
+        `</field><next><block type="game_move_sprite" id="ZEk4t2aK^+%5|%HKlm(`"><value name="sprite"><block type="variables_get" id="WP9`PG%j_nuI$aC|{?/n"><field name="VAR" id="Q;nm![F8_Zb#a9U_)K/R">sprite</field></block></value><value name="leds"><shadow type="math_number" id="4,06B.ZrN#OpeT_gvSrB"><field name="NUM">1</field></shadow></value></block></next></block></next></block></statement></block></statement></block></xml>
